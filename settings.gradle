@@ -1,0 +1,3 @@
+include ':NetWork'
+include ':app'
+rootProject.name = "InterView"

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<declare-styleable name="ProportionView">
+
+<!--    外边框画笔宽度-->
+    <attr name="paint_bound_width" format="dimension"/>
+    <attr name="round_color" format="color"/>
+    <attr name="progress_color" format="color"/>
+    <attr name="text_color" format="color"/>
+    <attr name="text_size" format="dimension"/>
+    <attr name="year_size" format="dimension"/>
+    <attr name="year_color" format="color"/>
+
+</declare-styleable>
+
+</resources>
